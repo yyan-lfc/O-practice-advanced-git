@@ -14,3 +14,8 @@
 - stash
 - log
 - add -p
+
+其他可以学习的内容：
+- 本地合并多个 commit
+- 修改本地 commit 的顺序
+- 删除本地中间的某个 commit
