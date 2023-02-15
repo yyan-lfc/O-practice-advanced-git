@@ -16,6 +16,11 @@ Start Date:
 End Date:
 2024.01.01
 
+Customer list:
+- C1 / Junior
+- C2 / Senior
+- C3 / Lead
+
 Expectations:
 1. everyone is happy
 2. everyone can learn something
