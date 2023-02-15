@@ -16,3 +16,7 @@ Start Date:
 End Date:
 2024.01.01
 
+Expectations:
+1. everyone is happy
+2. everyone can learn something
+3. po is satisfied
